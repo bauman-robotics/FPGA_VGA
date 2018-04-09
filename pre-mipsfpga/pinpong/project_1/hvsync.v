@@ -1,4 +1,4 @@
-
+ 
 module vga (
 	input wire pixel_clock,
 

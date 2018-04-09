@@ -1,5 +1,5 @@
 IP Upgrade report for project_1
-Mon Apr  9 12:58:47 2018
+Fri Apr  6 17:38:13 2018
 Quartus Prime Version 17.0.0 Build 595 04/25/2017 SJ Standard Edition
 
 
@@ -36,7 +36,7 @@ agreement for further details.
 +--------------------------------------------------------------------------------+
 ; IP Upgrade Summary                                                             ;
 +------------------------------+-------------------------------------------------+
-; IP Components Upgrade Status ; Passed - Mon Apr  9 12:58:47 2018               ;
+; IP Components Upgrade Status ; Passed - Fri Apr  6 17:38:13 2018               ;
 ; Quartus Prime Version        ; 17.0.0 Build 595 04/25/2017 SJ Standard Edition ;
 ; Revision Name                ; project_1                                       ;
 ; Top-level Entity Name        ; main                                            ;
@@ -73,9 +73,9 @@ Info (11131): Completed upgrading IP component altera_pll with file "apll.vhd"
 Info (11131): Completed upgrading IP component altera_pll with file "vgapll.v"
 Info (23030): Evaluation of Tcl script /home/arkhan/intelFPGA/17.0/quartus/common/tcl/internal/ip_regen/ip_regen.tcl was successful
 Info: Quartus Prime Shell was successful. 0 errors, 0 warnings
-    Info: Peak virtual memory: 1072 megabytes
-    Info: Processing ended: Mon Apr  9 12:58:47 2018
+    Info: Peak virtual memory: 1069 megabytes
+    Info: Processing ended: Fri Apr  6 17:38:13 2018
     Info: Elapsed time: 00:01:32
-    Info: Total CPU time (on all processors): 00:02:46
+    Info: Total CPU time (on all processors): 00:02:44
 
 

@@ -1,0 +1,81 @@
+IP Upgrade report for project_1
+Mon Apr  9 12:58:47 2018
+Quartus Prime Version 17.0.0 Build 595 04/25/2017 SJ Standard Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. IP Upgrade Summary
+  3. Successfully Upgraded IP Components
+  4. IP Upgrade Messages
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 2017  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel MegaCore Function License Agreement, or other 
+applicable license agreement, including, without limitation, 
+that your use is for the sole purpose of programming logic 
+devices manufactured by Intel and sold by Intel or its 
+authorized distributors.  Please refer to the applicable 
+agreement for further details.
+
+
+
++--------------------------------------------------------------------------------+
+; IP Upgrade Summary                                                             ;
++------------------------------+-------------------------------------------------+
+; IP Components Upgrade Status ; Passed - Mon Apr  9 12:58:47 2018               ;
+; Quartus Prime Version        ; 17.0.0 Build 595 04/25/2017 SJ Standard Edition ;
+; Revision Name                ; project_1                                       ;
+; Top-level Entity Name        ; main                                            ;
+; Family                       ; Cyclone V                                       ;
++------------------------------+-------------------------------------------------+
+
+
++------------------------------------------------------------------------------------------------------------------+
+; Successfully Upgraded IP Components                                                                              ;
++-------------+----------------+---------+----------------------+----------------------+-----------------+---------+
+; Entity Name ; Component Name ; Version ; Original Source File ; Generation File Path ; New Source File ; Message ;
++-------------+----------------+---------+----------------------+----------------------+-----------------+---------+
+; altpll      ; altera_pll     ; 15.1    ; altpll.qip           ; altpll.v             ; altpll.qip      ;         ;
+; aplpll      ; altera_pll     ; 15.1    ; aplpll.qip           ; aplpll.vhd           ; aplpll.qip      ;         ;
+; apll        ; altera_pll     ; 15.1    ; apll.qip             ; apll.vhd             ; apll.qip        ;         ;
+; vgapll      ; altera_pll     ; 15.1    ; vgapll.qip           ; vgapll.v             ; vgapll.qip      ;         ;
++-------------+----------------+---------+----------------------+----------------------+-----------------+---------+
+
+
++---------------------+
+; IP Upgrade Messages ;
++---------------------+
+Info (11902): Backing up file "altpll.v" to "altpll.BAK.v"
+Info (11837): Started upgrading IP component altera_pll with file "altpll.v"
+Info (11902): Backing up file "aplpll.vhd" to "aplpll.BAK.vhd"
+Info (11837): Started upgrading IP component altera_pll with file "aplpll.vhd"
+Info (11902): Backing up file "apll.vhd" to "apll.BAK.vhd"
+Info (11837): Started upgrading IP component altera_pll with file "apll.vhd"
+Info (11902): Backing up file "vgapll.v" to "vgapll.BAK.v"
+Info (11837): Started upgrading IP component altera_pll with file "vgapll.v"
+Info (11131): Completed upgrading IP component altera_pll with file "altpll.v"
+Info (11131): Completed upgrading IP component altera_pll with file "aplpll.vhd"
+Info (11131): Completed upgrading IP component altera_pll with file "apll.vhd"
+Info (11131): Completed upgrading IP component altera_pll with file "vgapll.v"
+Info (23030): Evaluation of Tcl script /home/arkhan/intelFPGA/17.0/quartus/common/tcl/internal/ip_regen/ip_regen.tcl was successful
+Info: Quartus Prime Shell was successful. 0 errors, 0 warnings
+    Info: Peak virtual memory: 1072 megabytes
+    Info: Processing ended: Mon Apr  9 12:58:47 2018
+    Info: Elapsed time: 00:01:32
+    Info: Total CPU time (on all processors): 00:02:46
+
+

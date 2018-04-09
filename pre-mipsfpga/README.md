@@ -4,4 +4,4 @@ Elementary Verilog examples to gain knowledge and basic skills before working wi
 Local copy of this project:
 https://github.com/MIPSfpga/pre-mipsfpga
 
-yyy
+xxx

@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at game.v(89): always construct contains both blocking and non-blocking assignments File: D:/My_projects/Quartus_projects/FPGA_VGA/pre-mipsfpga-master_1/pinpong/project_1/game.v Line: 89
